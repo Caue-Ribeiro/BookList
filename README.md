@@ -1,6 +1,6 @@
 # 📕 BookList
 
-### As an upadate of my learning process, I decided to make my this booklist by my own, using what I've already learned and also reading some documentation. I trained constructor function, local storage, DOM manipulation.🚀
+### As an upadate of my learning process, I decided to make this booklist by my own, using what I've already learned and also reading some documentation. I trained constructor function, local storage and DOM manipulation.🚀
 
 #
 
